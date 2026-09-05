@@ -31,7 +31,7 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas com foco no ecossi
 | Projeto | Descrição | Tecnologias | Link |
 | :--- | :--- | :--- | :--- |
 | **Galeria de Fotos** | Aplicação web dinâmica para exibição de imagens com suporte a Dark Mode e estrutura escalável. | React Vite, CSS | [Acessar](https://album-de-fotos-novo.vercel.app/) |
-| **Site Milkshake** | Aplicação web interativa e responsiva com animações, onde o usuário personaliza seu pedido de milkshake. | React vite, JavaScript, Gsap, motion | [Acessar](https://sitemilkshake.vercel.app/") |
+| **Site Milkshake** | Aplicação web interativa e responsiva com animações, onde o usuário personaliza seu pedido de milkshake. | React vite, JavaScript, Gsap, motion | [Acessar](https://sitemilkshake.vercel.app/) |
 
 ---
 
